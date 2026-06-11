@@ -12,10 +12,10 @@ The helmet uses sensors to monitor environmental conditions and detect potential
 - Worker protection
 
 ## Technologies Used
-- Arduino
+- esp32
 - IoT Sensors
-- C/C++
-- Embedded Systems
+- python
+- mobile application 
 
 ## Project Goal
 The objective of this project is to improve workplace safety by providing intelligent monitoring and early warning capabilities.
